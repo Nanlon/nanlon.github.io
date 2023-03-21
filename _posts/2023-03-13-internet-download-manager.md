@@ -11,7 +11,7 @@ Internet Download Manager，全球最佳下载利器。Internet Download Manager
 
 <!--more-->
 
-![](https://nanlon.gitee.io/images/2023-03-13_internet-download-manager-01.png)
+![](https://nanlon.gitee.io/images/postimg/idm-01.png)
 
 #### 功能特点
 

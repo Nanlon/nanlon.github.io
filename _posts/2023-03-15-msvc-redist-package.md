@@ -18,7 +18,7 @@ modify_date: 2023-03-15 15:30:00 +0800
 
 #### 截图预览
 
-![](https://nanlon.gitee.io/images/2023-03-15_visualc-runtimepack-01.png)
+![](https://nanlon.gitee.io/images/postimg/visual-c-redist.png)
 
 #### 下载地址
 

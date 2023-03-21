@@ -19,9 +19,9 @@ WPS Office 专业版是针对政企用户提供的办公软件产品，具有强
 
 <!--more-->
 
-![](https://nanlon.gitee.io/images/2023-03-13_wps-office-2019-pro-01.png)
+![](https://nanlon.gitee.io/images/postimg/wps-office-2019-pro-01.png)
 
-![](https://nanlon.gitee.io/images/2023-03-13_wps-office-2019-pro-02.png)
+![](https://nanlon.gitee.io/images/postimg/wps-office-2019-pro-02.png)
 
 #### 更新日志
 

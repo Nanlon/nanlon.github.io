@@ -1,10 +1,10 @@
 ---
-title: WPS Office 2019 专业增强版（11.8.6.10973）
+title: WPS Office 2019 专业增强版（11.8.2.11987）
 category: Software
 tags: Software
 key: wps-office-2019-proplus
-date: 2022-02-28 13:25:00 +0800
-modify_date: 2022-02-28 13:25:00 +0800
+date: 2023-03-13 13:25:00 +0800
+modify_date: 2023-03-13 13:25:00 +0800
 ---
 
 WPS Office 专业版是针对政企用户提供的办公软件产品，具有强大的系统集成能力，如今已经与超过240家系统开发厂商建立合作关系，实现了与主流中间件、应用系统的无缝集成，完成企业中应用系统的零成本迁移。
@@ -19,30 +19,22 @@ WPS Office 专业版是针对政企用户提供的办公软件产品，具有强
 
 <!--more-->
 
-![](https://nanlon.gitee.io/images/2022-02-28_wps-office-2019-pro-01.png)
+![](https://nanlon.gitee.io/images/2023-03-13_wps-office-2019-pro-01.png)
 
-![](https://nanlon.gitee.io/images/2022-02-28_wps-office-2019-pro-02.png)
+![](https://nanlon.gitee.io/images/2023-03-13_wps-office-2019-pro-02.png)
 
 #### 更新日志
 
-**WPS Office (11.8.6.10973)  新增功能列表：**
-
-WPS表格
-1. 优化表格输出为图片显示内容大小。
-
-WPS文字
-1. 优化修订文档接受修订后的排版效果。
+**WPS Office (11.8.2.11987)  新增功能列表：**
 
 WPS演示
-1. 优化大样张读盘；
-2. 支持API Effect.Exit更改动画类型。
+1. 解决 COM 加载项中调用 quit 退出，而程序还去调用 COM 导致的崩溃问题。
 
 WPS公共
-1. ET新增Office与WPS快捷键模板；
-2. ET&WPP新增自定义快捷键功能。
-
-WPS PDF
-1. 支持JSAPI打开PDF文档。
+1. 解决因未嵌入字体后打开 PDF 文档乱码的问题，完善文档另存为 pdf 格式时法务风险规避的产品逻辑；
+2. 优化文本框体验，提升产品易用性和用户使用满意度；
+3. 增加对象组内对齐功能，与行业通用规则保持一致；
+4. PC 端适配私有化多中心存储，匹配最近的存储节点进行存储，有效降低对跨区域网络速度的依赖，提高文档上传速度。
 
 #### 此版特点
 

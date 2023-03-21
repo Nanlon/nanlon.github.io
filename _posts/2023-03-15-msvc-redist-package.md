@@ -1,10 +1,10 @@
 ---
-title: 微软 Visual C++ 运行库合集（3.0.22.0221）
+title: 微软 Visual C++ 运行库合集（3.0.23.0302）
 category: Software
 tags: Software
-key: visualc++runtimepack
-date: 2022-02-26 15:30:00 +0800
-modify_date: 2022-02-26 15:30:00 +0800
+key: MSVCredistPackage
+date: 2023-03-15 15:30:00 +0800
+modify_date: 2023-03-15 15:30:00 +0800
 ---
 
 运行库是程序在运行时所需要的库文件，通常运行库是以 dll 形式提供的。由于很多常用软件都是使用 Microsoft Visual Studio 编写的，所以这类软件的运行需要依赖微软 Visual C++ 运行库，比如像 迅雷、QQ、Adobe 软件等，如果没有安装 Visual C++ 运行库或者安装的版本不完整，就可能会导致这些软件启动时报错，提示缺少 dll 文件等。
@@ -14,13 +14,12 @@ modify_date: 2022-02-26 15:30:00 +0800
 
 #### 更新日志
 
-2022-02-21：跟进官方 Microsoft Visual C++ 2015-2022 Redistributables(14.31.31103.0)
+2023-03-02：跟进官方 Microsoft Visual C++ 2015-2022 Redistributables(14.34.31938.0)
 
 #### 截图预览
 
-![](https://nanlon.gitee.io/images/2022-02-26_visualc-runtimepack-01.png)
+![](https://nanlon.gitee.io/images/2023-03-15_visualc-runtimepack-01.png)
 
 #### 下载地址
 
-蓝奏云：[https://wwi.lanzouj.com/b0cxze8eh](https://wwi.lanzouj.com/b0cxze8eh){:target="_blank"}
-密码:`2ech`
+123云盘：[https://www.123pan.com/s/XlD9-ubnx](https://www.123pan.com/s/XlD9-ubnx){:target="_blank"}

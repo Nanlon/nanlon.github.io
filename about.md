@@ -29,7 +29,7 @@ Welcome to my blog!
 
 ## About Me | 关于我
 
-这是我的个人博客，托管在 Gitee Pages 上，使用 Jekyll 框架。
+这是我的个人博客，托管在 GitHub Pages 上，使用 Jekyll 框架。
 
 计算机是我的业余爱好，平时没事喜欢跑步，听音乐，看电影。
 
